@@ -31,7 +31,7 @@ Steps given to the students ahead of time to initiate the learning demo on Datab
     - Make sure the column data types look correct (or ignore this if you don't know what you are looking for)
     - Create table
 5. Upload SQL-Practice-FSU.dbc as a notebook
-6. We will go through each coding block together to thoroughly cover what each SQL call is accomplishing
+6. We will go through each coding block together to thoroughly cover what each is accomplishing
 
 ## Presentation
 The PowerPoint deck used to introduce SQL is included in the repository and can be downloaded.
