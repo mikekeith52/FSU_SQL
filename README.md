@@ -1,5 +1,4 @@
 # FSU_SQL
-Here is the repository of my SQL demo given every year to the Florida State Masters of Applied Economics program.
  
 ## Overview
 I am asked annually to teach a single introduction to SQL lecture to the new cohort at Florida State. The students have backgrounds typically in STATA, SAS, and R; Logistic Modeling; and economic interpretations of societal trends. Building upon that knowledge, this lecture hopes to offer a view to the students to understand how big data and relational databases can be used to expand their skillsets. 
