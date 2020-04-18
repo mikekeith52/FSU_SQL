@@ -4,7 +4,7 @@
 I am asked annually to teach a single introduction to SQL lecture to the new cohort at Florida State. The students have backgrounds typically in STATA, SAS, R, Logistic Modeling, and economic interpretations of societal trends. Building upon that knowledge, this lecture hopes to offer a view to the students to understand how big data and relational databases can be used to expand their skillsets. 
 
 ## Getting Started
-Steps to initiate the learning demo on Databricks:
+Steps given to the students ahead of time to initiate the learning demo on Databricks:
 
 1. Navigate to https://community.cloud.databricks.com
 2. Sign up for a free community account (if you are entering credit card info for a free trial, you're doing it wrong)
@@ -30,9 +30,11 @@ Steps to initiate the learning demo on Databricks:
     - Make sure the data looks right
     - Make sure the column data types look correct (or ignore this if you don't know what you are looking for)
     - Create table
+5. Upload SQL-Practice-FSU.dbc as a notebook
+6. We will go through each coding block together to thoroughly cover what each SQL call is accomplishing
 
 ## Presentation
-The deck used to introduce SQL is included in the repository and can be downloaded.
+The PowerPoint deck used to introduce SQL is included in the repository and can be downloaded.
 
 ## SQL
 The SQL text file used in the practice demonstration is available as SQL-Practice-FSU.sql
