@@ -1,6 +1,6 @@
 # FSU_SQL
 
-Welcome FSU students! If you are reading this, it should mean you are currently navigated to: https://github.com/mikekeith52/a_simple_project
+Welcome FSU students! If you are reading this, it should mean you are currently navigated to: https://github.com/mikekeith52/FSU_SQL
 
 If you are somehow reading this and you have not navigated to that web page, do so now.
 
