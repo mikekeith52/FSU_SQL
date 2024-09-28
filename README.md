@@ -5,13 +5,13 @@ Welcome FSU students! If you are reading this, it should mean you are currently 
 If you are somehow reading this and you have not navigated to that web page, do so now.
 
 ## Download all files from GitHub
-1. On the top-right of the screen, click the option "⭐ Star". Nothing else works if this step is not completed.
+1. On the top-right of the screen, click the option "⭐ Star"
 2. Click the green code button on the top-right
 3. Download all files as a zip
 4. Unzip and save files locally to your computer where you'll be able to easily access them
 
 ## Getting Started
-Steps to begin learning SQL with Databricks:
+Please complete steps 1 and 2 below before our session begins. We will work through the rest of the steps together.
 
 1. Navigate to https://community.cloud.databricks.com
 2. Sign up for a free community account
@@ -25,7 +25,7 @@ Steps to begin learning SQL with Databricks:
     - On your account dashboard, click the "Compute" icon on the left
     - Select "Create compute" on the top-right
     - Use "FSU Cluster" for the compute name
-    - Any option for Databricks Runtime Option will work (safest is to use the default one offered to you)
+    - Any option for the Databricks Runtime Option will work (safest is to use the default one offered to you)
     - Create Compute
 4. Upload cogsley_clients.csv and cogsley_sales.csv to the default database
     - Select the main databricks logo on the top-left
