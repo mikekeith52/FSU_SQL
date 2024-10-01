@@ -1,17 +1,15 @@
 # FSU_SQL
 
-Welcome FSU students! If you are reading this, it should mean you are currently navigated to: https://github.com/mikekeith52/FSU_SQL
+Welcome FSU students! Please follow the instructions below to start learning Data Science and SQL:
 
-If you are somehow reading this and you have not navigated to that web page, do so now.
-
-## Download all files from GitHub
+## Download all needed files from GitHub
 1. On the top-right of the screen, click the option "⭐ Star"
 2. Click the green code button on the top-right
 3. Download all files as a zip
-4. Unzip and save files locally to your computer where you'll be able to easily access them
+4. Unzip and save the files locally to your computer where you'll be able to easily access them
 
-## Getting Started
-Please complete steps 1 and 2 below before our session begins. We will work through the rest of the steps together.
+## Create a Databricks Account
+Please complete the steps below before our session begins.
 
 1. Navigate to https://community.cloud.databricks.com
 2. Sign up for a free community account
@@ -21,6 +19,12 @@ Please complete steps 1 and 2 below before our session begins. We will work thro
       - For Title, use "Student"
     - In the next screen select "Get Started with Community Edition"
     - Once you confirm your email, you should be able to log into the Databricks platform
+
+## Create a Databricks Cluster and SQL Instance
+We will follow these instructions together when I arrive on campus. You are free to do all this before I arrive, but because of how Databricks is as a platform, you will need to repeat these steps when we are together.
+
+1. Navigate to https://community.cloud.databricks.com
+2. Log in
 3. Create a compute cluster
     - On your account dashboard, click the "Compute" icon on the left
     - Select "Create compute" on the top-right
