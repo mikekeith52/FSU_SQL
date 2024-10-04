@@ -3,10 +3,9 @@
 Welcome FSU students! Please follow the instructions below to start learning Data Science and SQL:
 
 ## Download all needed files from GitHub
-1. On the top-right of the screen, click the option "⭐ Star"
-2. Click the green code button on the top-right
-3. Download all files as a zip
-4. Unzip and save the files locally to your computer where you'll be able to easily access them
+1. Click the green code button on the top-right
+2. Download all files as a zip
+3. Unzip and save the files locally to your computer where you'll be able to easily access them
 
 ## Create a Databricks Account
 Please complete the steps below before our session begins.
